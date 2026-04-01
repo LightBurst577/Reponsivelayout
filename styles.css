@@ -29,6 +29,7 @@ p {
   font-size: 1.125rem;
   line-height: 1.35;
   margin: 10px;
+  text-align: center;
 }
 
 .beta-text {
@@ -199,6 +200,10 @@ input:focus {
 
   h2 {
     font-size: 2.625rem;
+  }
+
+  p {
+    text-align: left;
   }
 
   .beta-text {
