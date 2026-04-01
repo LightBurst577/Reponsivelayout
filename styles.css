@@ -131,7 +131,9 @@ p:hover {
 }
 
 .img-main:hover {
-  box-shadow: 0 0 0 5px #fca311;
+  box-shadow: 0 0 0 2px #fca311;
+  margin-top: 2px;
+  margin-bottom: -2px;
 }
 
 .main-content p,
